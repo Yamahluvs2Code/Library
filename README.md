@@ -5,7 +5,8 @@
  new client, adding a new book, borrowing a book, returning a book and listing the 
  information of the clients and books. The program then enters into a switch statement 
  which contains 8 cases that cover each of the choices. The program utillizes OOP for
- object livre (book) and object client. 
+ in order to create arraylists for each of the objects livre (book) and client. By manipulating 
+ these arraylists the program mimics a library's database.
 
 
 
